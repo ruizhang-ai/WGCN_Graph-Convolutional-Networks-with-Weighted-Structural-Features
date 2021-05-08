@@ -8,6 +8,13 @@ pip install -r requirements.txt
 ```
 
 ### Run the demo
+Please first download two feature files required for the squirrel and the crocodile datasets from:
+```
+link: https://pan.baidu.com/s/1E3sw3YoQFqoNpH_KzOz_1w 
+password: 7f3x
+```
+Then put the two files to "./data/squirrel/" and "./data/crocodile/", respectively. 
+
 To replicate the results in Table 2, run the following command in the source directory:
 ```
 >> bash run_chameleon.txt
